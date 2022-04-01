@@ -16,5 +16,5 @@ This android based unit converter will able to run on any versions of android O.
   # when 
      When user wants to carry out the tasks quickly and this reduces manual work and saves time.
   # How 
-     Unit converter is a very useful application for students and in various other industries and fields and used Google assistant for unit conversion. 
+     Unit Conversion is a multi-step process that involves multiplication or division by a numerical factor,selection of the correct number of significant digits and rounding.  
     
